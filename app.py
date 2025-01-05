@@ -1,3 +1,3 @@
-import boto3
+import boto4
 
 print("Create EC2 Instance")
